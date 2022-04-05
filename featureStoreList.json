@@ -1,0 +1,2956 @@
+[
+  {
+    "storeId": "Cantina Store",
+    "rewards": {
+      "units": [
+        {
+          "name": "Cassian's U-wing",
+          "baseId": "UWINGROGUEONE",
+          "shardId": "unitshard_UWINGROGUEONE",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Stormtrooper Han",
+          "baseId": "STORMTROOPERHAN",
+          "shardId": "unitshard_STORMTROOPERHAN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Chopper",
+          "baseId": "CHOPPERS3",
+          "shardId": "unitshard_CHOPPERS3",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Pao",
+          "baseId": "PAO",
+          "shardId": "unitshard_PAO",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Bistan",
+          "baseId": "BISTAN",
+          "shardId": "unitshard_BISTAN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Jawa Scavenger",
+          "baseId": "JAWASCAVENGER",
+          "shardId": "unitshard_JAWASCAVENGER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Ahsoka Tano",
+          "baseId": "AHSOKATANO",
+          "shardId": "unitshard_AHSOKATANO",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Jedi Knight Guardian",
+          "baseId": "JEDIKNIGHTGUARDIAN",
+          "shardId": "unitshard_JEDIKNIGHTGUARDIAN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "CT-5555 \"Fives\"",
+          "baseId": "CT5555",
+          "shardId": "unitshard_CT5555",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Hoth Rebel Scout",
+          "baseId": "HOTHREBELSCOUT",
+          "shardId": "unitshard_HOTHREBELSCOUT",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Boba Fett",
+          "baseId": "BOBAFETT",
+          "shardId": "unitshard_BOBAFETT",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Mob Enforcer",
+          "baseId": "HUMANTHUG",
+          "shardId": "unitshard_HUMANTHUG",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Stormtrooper",
+          "baseId": "STORMTROOPER",
+          "shardId": "unitshard_STORMTROOPER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Old Daka",
+          "baseId": "DAKA",
+          "shardId": "unitshard_DAKA",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "First Order Officer",
+          "baseId": "FIRSTORDEROFFICERMALE",
+          "shardId": "unitshard_FIRSTORDEROFFICERMALE",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Qui-Gon Jinn",
+          "baseId": "QUIGONJINN",
+          "shardId": "unitshard_QUIGONJINN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Poe Dameron",
+          "baseId": "POE",
+          "shardId": "unitshard_POE",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Cantina Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        }
+      ],
+      "gear": [],
+      "mods": [],
+      "other": []
+    }
+  },
+  {
+    "storeId": "Conquest Store",
+    "rewards": {
+      "units": [
+        {
+          "name": "Razor Crest",
+          "baseId": "RAZORCREST",
+          "shardId": "unitshard_RAZORCREST",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Conquest Credit",
+              "cost": "400",
+              "quantity": 5
+            },
+            {
+              "currency": "Crystals",
+              "cost": 600,
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "Commander Ahsoka Tano",
+          "baseId": "COMMANDERAHSOKA",
+          "shardId": "unitshard_COMMANDERAHSOKA",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Conquest Credit",
+              "cost": "400",
+              "quantity": 5
+            },
+            {
+              "currency": "Crystals",
+              "cost": 600,
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "Maul",
+          "baseId": "MAULS7",
+          "shardId": "unitshard_MAULS7",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Conquest Credit",
+              "cost": "400",
+              "quantity": 5
+            },
+            {
+              "currency": "Crystals",
+              "cost": 600,
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "Boba Fett, Scion of Jango",
+          "baseId": "BOBAFETTSCION",
+          "shardId": "unitshard_BOBAFETTSCION",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Conquest Credit",
+              "cost": "400",
+              "quantity": 5
+            },
+            {
+              "currency": "Crystals",
+              "cost": 600,
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "name": "TIE/IN Interceptor Prototype",
+          "baseId": "TIEINTERCEPTOR",
+          "shardId": "unitshard_TIEINTERCEPTOR",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Conquest Credit",
+              "cost": "400",
+              "quantity": 5
+            },
+            {
+              "currency": "Crystals",
+              "cost": 600,
+              "quantity": 5
+            }
+          ]
+        }
+      ],
+      "gear": [],
+      "mods": [],
+      "other": []
+    }
+  },
+  {
+    "storeId": "Galactic War Store",
+    "rewards": {
+      "units": [
+        {
+          "name": "Ahsoka Tano's Jedi Starfighter",
+          "baseId": "JEDISTARFIGHTERAHSOKATANO",
+          "shardId": "unitshard_JEDISTARFIGHTERAHSOKATANO",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Jedi Consular's Starfighter",
+          "baseId": "JEDISTARFIGHTERCONSULAR",
+          "shardId": "unitshard_JEDISTARFIGHTERCONSULAR",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Geonosian Soldier's Starfighter",
+          "baseId": "GEONOSIANSTARFIGHTER2",
+          "shardId": "unitshard_GEONOSIANSTARFIGHTER2",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Geonosian Spy's Starfighter",
+          "baseId": "GEONOSIANSTARFIGHTER3",
+          "shardId": "unitshard_GEONOSIANSTARFIGHTER3",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Clone Sergeant's ARC-170",
+          "baseId": "ARC170CLONESERGEANT",
+          "shardId": "unitshard_ARC170CLONESERGEANT",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Imperial TIE Fighter",
+          "baseId": "TIEFIGHTERIMPERIAL",
+          "shardId": "unitshard_TIEFIGHTERIMPERIAL",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Resistance X-wing",
+          "baseId": "XWINGRESISTANCE",
+          "shardId": "unitshard_XWINGRESISTANCE",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Sun Fac's Geonosian Starfighter",
+          "baseId": "GEONOSIANSTARFIGHTER1",
+          "shardId": "unitshard_GEONOSIANSTARFIGHTER1",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Biggs Darklighter's X-wing",
+          "baseId": "XWINGRED3",
+          "shardId": "unitshard_XWINGRED3",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Wedge Antilles's X-wing",
+          "baseId": "XWINGRED2",
+          "shardId": "unitshard_XWINGRED2",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "First Order TIE Fighter",
+          "baseId": "TIEFIGHTERFIRSTORDER",
+          "shardId": "unitshard_TIEFIGHTERFIRSTORDER",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Plo Koon's Jedi Starfighter",
+          "baseId": "BLADEOFDORIN",
+          "shardId": "unitshard_BLADEOFDORIN",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Umbaran Starfighter",
+          "baseId": "UMBARANSTARFIGHTER",
+          "shardId": "unitshard_UMBARANSTARFIGHTER",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Garazeb \"Zeb\" Orrelios",
+          "baseId": "ZEBS3",
+          "shardId": "unitshard_ZEBS3",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Bodhi Rook",
+          "baseId": "BODHIROOK",
+          "shardId": "unitshard_BODHIROOK",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "K-2SO",
+          "baseId": "K2SO",
+          "shardId": "unitshard_K2SO",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Cad Bane",
+          "baseId": "CADBANE",
+          "shardId": "unitshard_CADBANE",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Luminara Unduli",
+          "baseId": "LUMINARAUNDULI",
+          "shardId": "unitshard_LUMINARAUNDULI",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Nightsister Initiate",
+          "baseId": "NIGHTSISTERINITIATE",
+          "shardId": "unitshard_NIGHTSISTERINITIATE",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Teebo",
+          "baseId": "TEEBO",
+          "shardId": "unitshard_TEEBO",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Biggs Darklighter",
+          "baseId": "BIGGSDARKLIGHTER",
+          "shardId": "unitshard_BIGGSDARKLIGHTER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Dathcha",
+          "baseId": "DATHCHA",
+          "shardId": "unitshard_DATHCHA",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Poggle the Lesser",
+          "baseId": "POGGLETHELESSER",
+          "shardId": "unitshard_POGGLETHELESSER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "IG-86 Sentinel Droid",
+          "baseId": "IG86SENTINELDROID",
+          "shardId": "unitshard_IG86SENTINELDROID",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Tusken Raider",
+          "baseId": "TUSKENRAIDER",
+          "shardId": "unitshard_TUSKENRAIDER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Resistance Pilot",
+          "baseId": "RESISTANCEPILOT",
+          "shardId": "unitshard_RESISTANCEPILOT",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Captain Phasma",
+          "baseId": "PHASMA",
+          "shardId": "unitshard_PHASMA",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Magmatrooper",
+          "baseId": "MAGMATROOPER",
+          "shardId": "unitshard_MAGMATROOPER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Galactic War Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        }
+      ],
+      "gear": [],
+      "mods": [],
+      "other": []
+    }
+  },
+  {
+    "storeId": "Squad Arena Store",
+    "rewards": {
+      "units": [
+        {
+          "name": "Kanan Jarrus",
+          "baseId": "KANANJARRUSS3",
+          "shardId": "unitshard_KANANJARRUSS3",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Cassian Andor",
+          "baseId": "CASSIANANDOR",
+          "shardId": "unitshard_CASSIANANDOR",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Mace Windu",
+          "baseId": "MACEWINDU",
+          "shardId": "unitshard_MACEWINDU",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Chief Nebit",
+          "baseId": "CHIEFNEBIT",
+          "shardId": "unitshard_CHIEFNEBIT",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Princess Leia",
+          "baseId": "PRINCESSLEIA",
+          "shardId": "unitshard_PRINCESSLEIA",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Grand Moff Tarkin",
+          "baseId": "GRANDMOFFTARKIN",
+          "shardId": "unitshard_GRANDMOFFTARKIN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Ugnaught",
+          "baseId": "UGNAUGHT",
+          "shardId": "unitshard_UGNAUGHT",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Greedo",
+          "baseId": "GREEDO",
+          "shardId": "unitshard_GREEDO",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Asajj Ventress",
+          "baseId": "ASAJVENTRESS",
+          "shardId": "unitshard_ASAJVENTRESS",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Savage Opress",
+          "baseId": "SAVAGEOPRESS",
+          "shardId": "unitshard_SAVAGEOPRESS",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "HK-47",
+          "baseId": "HK47",
+          "shardId": "unitshard_HK47",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Admiral Ackbar",
+          "baseId": "ADMIRALACKBAR",
+          "shardId": "unitshard_ADMIRALACKBAR",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Coruscant Underworld Police",
+          "baseId": "CORUSCANTUNDERWORLDPOLICE",
+          "shardId": "unitshard_CORUSCANTUNDERWORLDPOLICE",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "IG-88",
+          "baseId": "IG88",
+          "shardId": "unitshard_IG88",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Eeth Koth",
+          "baseId": "EETHKOTH",
+          "shardId": "unitshard_EETHKOTH",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Darth Sidious",
+          "baseId": "DARTHSIDIOUS",
+          "shardId": "unitshard_DARTHSIDIOUS",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Nute Gunray",
+          "baseId": "NUTEGUNRAY",
+          "shardId": "unitshard_NUTEGUNRAY",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Squad Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        }
+      ],
+      "gear": [],
+      "mods": [],
+      "other": []
+    }
+  },
+  {
+    "storeId": "Fleet Arena Store",
+    "rewards": {
+      "units": [
+        {
+          "name": "Razor Crest",
+          "baseId": "RAZORCREST",
+          "shardId": "unitshard_RAZORCREST",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Bistan's U-wing",
+          "baseId": "UWINGSCARIF",
+          "shardId": "unitshard_UWINGSCARIF",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Poe Dameron's X-wing",
+          "baseId": "XWINGBLACKONE",
+          "shardId": "unitshard_XWINGBLACKONE",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Resistance X-wing",
+          "baseId": "XWINGRESISTANCE",
+          "shardId": "unitshard_XWINGRESISTANCE",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Imperial TIE Fighter",
+          "baseId": "TIEFIGHTERIMPERIAL",
+          "shardId": "unitshard_TIEFIGHTERIMPERIAL",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Scimitar",
+          "baseId": "SITHINFILTRATOR",
+          "shardId": "unitshard_SITHINFILTRATOR",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Slave I",
+          "baseId": "SLAVE1",
+          "shardId": "unitshard_SLAVE1",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "TIE Advanced x1",
+          "baseId": "TIEADVANCED",
+          "shardId": "unitshard_TIEADVANCED",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Clone Sergeant's ARC-170",
+          "baseId": "ARC170CLONESERGEANT",
+          "shardId": "unitshard_ARC170CLONESERGEANT",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Rex's ARC-170",
+          "baseId": "ARC170REX",
+          "shardId": "unitshard_ARC170REX",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Jedi Consular's Starfighter",
+          "baseId": "JEDISTARFIGHTERCONSULAR",
+          "shardId": "unitshard_JEDISTARFIGHTERCONSULAR",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Ahsoka Tano's Jedi Starfighter",
+          "baseId": "JEDISTARFIGHTERAHSOKATANO",
+          "shardId": "unitshard_JEDISTARFIGHTERAHSOKATANO",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Ghost",
+          "baseId": "GHOST",
+          "shardId": "unitshard_GHOST",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Geonosian Spy's Starfighter",
+          "baseId": "GEONOSIANSTARFIGHTER3",
+          "shardId": "unitshard_GEONOSIANSTARFIGHTER3",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Geonosian Soldier's Starfighter",
+          "baseId": "GEONOSIANSTARFIGHTER2",
+          "shardId": "unitshard_GEONOSIANSTARFIGHTER2",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Gauntlet Starfighter",
+          "baseId": "GAUNTLETSTARFIGHTER",
+          "shardId": "unitshard_GAUNTLETSTARFIGHTER",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Biggs Darklighter's X-wing",
+          "baseId": "XWINGRED3",
+          "shardId": "unitshard_XWINGRED3",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Wedge Antilles's X-wing",
+          "baseId": "XWINGRED2",
+          "shardId": "unitshard_XWINGRED2",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Phantom II",
+          "baseId": "PHANTOM2",
+          "shardId": "unitshard_PHANTOM2",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Plo Koon's Jedi Starfighter",
+          "baseId": "BLADEOFDORIN",
+          "shardId": "unitshard_BLADEOFDORIN",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Umbaran Starfighter",
+          "baseId": "UMBARANSTARFIGHTER",
+          "shardId": "unitshard_UMBARANSTARFIGHTER",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "First Order TIE Fighter",
+          "baseId": "TIEFIGHTERFIRSTORDER",
+          "shardId": "unitshard_TIEFIGHTERFIRSTORDER",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Sun Fac's Geonosian Starfighter",
+          "baseId": "GEONOSIANSTARFIGHTER1",
+          "shardId": "unitshard_GEONOSIANSTARFIGHTER1",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "CC-2224 \"Cody\"",
+          "baseId": "CC2224",
+          "shardId": "unitshard_CC2224",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Chirrut Îmwe",
+          "baseId": "CHIRRUTIMWE",
+          "shardId": "unitshard_CHIRRUTIMWE",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "CT-21-0408 \"Echo\"",
+          "baseId": "CT210408",
+          "shardId": "unitshard_CT210408",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Zam Wesell",
+          "baseId": "ZAMWESELL",
+          "shardId": "unitshard_ZAMWESELL",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Tusken Shaman",
+          "baseId": "TUSKENSHAMAN",
+          "shardId": "unitshard_TUSKENSHAMAN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Admiral Ackbar",
+          "baseId": "ADMIRALACKBAR",
+          "shardId": "unitshard_ADMIRALACKBAR",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Darth Vader",
+          "baseId": "VADER",
+          "shardId": "unitshard_VADER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "General Grievous",
+          "baseId": "GRIEVOUS",
+          "shardId": "unitshard_GRIEVOUS",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Grand Moff Tarkin",
+          "baseId": "GRANDMOFFTARKIN",
+          "shardId": "unitshard_GRANDMOFFTARKIN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Mace Windu",
+          "baseId": "MACEWINDU",
+          "shardId": "unitshard_MACEWINDU",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Bistan",
+          "baseId": "BISTAN",
+          "shardId": "unitshard_BISTAN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "CT-7567 \"Rex\"",
+          "baseId": "CT7567",
+          "shardId": "unitshard_CT7567",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Ezra Bridger",
+          "baseId": "EZRABRIDGERS3",
+          "shardId": "unitshard_EZRABRIDGERS3",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Scarif Rebel Pathfinder",
+          "baseId": "SCARIFREBEL",
+          "shardId": "unitshard_SCARIFREBEL",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Boba Fett",
+          "baseId": "BOBAFETT",
+          "shardId": "unitshard_BOBAFETT",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Darth Maul",
+          "baseId": "MAUL",
+          "shardId": "unitshard_MAUL",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Poe Dameron",
+          "baseId": "POE",
+          "shardId": "unitshard_POE",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Sun Fac",
+          "baseId": "SUNFAC",
+          "shardId": "unitshard_SUNFAC",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Wedge Antilles",
+          "baseId": "WEDGEANTILLES",
+          "shardId": "unitshard_WEDGEANTILLES",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Biggs Darklighter",
+          "baseId": "BIGGSDARKLIGHTER",
+          "shardId": "unitshard_BIGGSDARKLIGHTER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Ahsoka Tano (Fulcrum)",
+          "baseId": "FULCRUMAHSOKA",
+          "shardId": "unitshard_FULCRUMAHSOKA",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Resistance Pilot",
+          "baseId": "RESISTANCEPILOT",
+          "shardId": "unitshard_RESISTANCEPILOT",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Ahsoka Tano",
+          "baseId": "AHSOKATANO",
+          "shardId": "unitshard_AHSOKATANO",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Plo Koon",
+          "baseId": "PLOKOON",
+          "shardId": "unitshard_PLOKOON",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Jedi Consular",
+          "baseId": "JEDIKNIGHTCONSULAR",
+          "shardId": "unitshard_JEDIKNIGHTCONSULAR",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Geonosian Soldier",
+          "baseId": "GEONOSIANSOLDIER",
+          "shardId": "unitshard_GEONOSIANSOLDIER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Sun Fac",
+          "baseId": "SUNFAC",
+          "shardId": "unitshard_SUNFAC",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Geonosian Spy",
+          "baseId": "GEONOSIANSPY",
+          "shardId": "unitshard_GEONOSIANSPY",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Clone Sergeant - Phase I",
+          "baseId": "CLONESERGEANTPHASEI",
+          "shardId": "unitshard_CLONESERGEANTPHASEI",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "CT-5555 \"Fives\"",
+          "baseId": "CT5555",
+          "shardId": "unitshard_CT5555",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "First Order TIE Pilot",
+          "baseId": "FIRSTORDERTIEPILOT",
+          "shardId": "unitshard_FIRSTORDERTIEPILOT",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "TIE Fighter Pilot",
+          "baseId": "TIEFIGHTERPILOT",
+          "shardId": "unitshard_TIEFIGHTERPILOT",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Fleet Arena Token",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        }
+      ],
+      "gear": [],
+      "mods": [],
+      "other": []
+    }
+  },
+  {
+    "storeId": "Guild Events Store",
+    "rewards": {
+      "units": [
+        {
+          "name": "Malevolence",
+          "baseId": "CAPITALMALEVOLENCE",
+          "shardId": "unitshard_CAPITALMALEVOLENCE",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "cost": "1350",
+              "currency": "Mk II Guild Event Tokens",
+              "quantity": 5
+            },
+            {
+              "cost": "2700",
+              "currency": "Mk II Guild Event Tokens",
+              "quantity": 10
+            },
+            {
+              "cost": "4050",
+              "currency": "Mk II Guild Event Tokens",
+              "quantity": 15
+            }
+          ]
+        },
+        {
+          "name": "Negotiator",
+          "baseId": "CAPITALNEGOTIATOR",
+          "shardId": "unitshard_CAPITALNEGOTIATOR",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "cost": "1350",
+              "currency": "Mk II Guild Event Tokens",
+              "quantity": 5
+            },
+            {
+              "cost": "2700",
+              "currency": "Mk II Guild Event Tokens",
+              "quantity": 10
+            },
+            {
+              "cost": "4050",
+              "currency": "Mk II Guild Event Tokens",
+              "quantity": 15
+            }
+          ]
+        },
+        {
+          "name": "Rebel Officer Leia Organa",
+          "baseId": "HOTHLEIA",
+          "shardId": "unitshard_HOTHLEIA",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "cost": "900",
+              "currency": "Mk II Guild Event Tokens",
+              "quantity": 5
+            },
+            {
+              "cost": "1800",
+              "currency": "Mk II Guild Event Tokens",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Imperial Probe Droid",
+          "baseId": "IMPERIALPROBEDROID",
+          "shardId": "unitshard_IMPERIALPROBEDROID",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "cost": "900",
+              "currency": "Mk II Guild Event Tokens",
+              "quantity": 5
+            },
+            {
+              "cost": "1800",
+              "currency": "Mk II Guild Event Tokens",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "General Skywalker",
+          "baseId": "GENERALSKYWALKER",
+          "shardId": "unitshard_GENERALSKYWALKER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "cost": "1900",
+              "currency": "Mk I Guild Event Tokens",
+              "quantity": 5
+            },
+            {
+              "cost": "3800",
+              "currency": "Mk I Guild Event Tokens",
+              "quantity": 10
+            },
+            {
+              "cost": "5700",
+              "currency": "Mk I Guild Event Tokens",
+              "quantity": 15
+            }
+          ]
+        },
+        {
+          "name": "Darth Malak",
+          "baseId": "DARTHMALAK",
+          "shardId": "unitshard_DARTHMALAK",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "cost": "1900",
+              "currency": "Mk I Guild Event Tokens",
+              "quantity": 5
+            },
+            {
+              "cost": "3800",
+              "currency": "Mk I Guild Event Tokens",
+              "quantity": 10
+            },
+            {
+              "cost": "5700",
+              "currency": "Mk I Guild Event Tokens",
+              "quantity": 15
+            }
+          ]
+        },
+        {
+          "name": "Hermit Yoda",
+          "baseId": "HERMITYODA",
+          "shardId": "unitshard_HERMITYODA",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "cost": "1350",
+              "currency": "Mk I Guild Event Tokens",
+              "quantity": 5
+            },
+            {
+              "cost": "2700",
+              "currency": "Mk I Guild Event Tokens",
+              "quantity": 10
+            },
+            {
+              "cost": "4050",
+              "currency": "Mk I Guild Event Tokens",
+              "quantity": 15
+            }
+          ]
+        },
+        {
+          "name": "Wampa",
+          "baseId": "WAMPA",
+          "shardId": "unitshard_WAMPA",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "cost": "1350",
+              "currency": "Mk I Guild Event Tokens",
+              "quantity": 5
+            },
+            {
+              "cost": "2700",
+              "currency": "Mk I Guild Event Tokens",
+              "quantity": 10
+            },
+            {
+              "cost": "4050",
+              "currency": "Mk I Guild Event Tokens",
+              "quantity": 15
+            }
+          ]
+        },
+        {
+          "name": "Hoth Rebel Scout",
+          "baseId": "HOTHREBELSCOUT",
+          "shardId": "unitshard_HOTHREBELSCOUT",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Hoth Rebel Soldier",
+          "baseId": "HOTHREBELSOLDIER",
+          "shardId": "unitshard_HOTHREBELSOLDIER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Admiral Ackbar",
+          "baseId": "ADMIRALACKBAR",
+          "shardId": "unitshard_ADMIRALACKBAR",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Cassian Andor",
+          "baseId": "CASSIANANDOR",
+          "shardId": "unitshard_CASSIANANDOR",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Lando Calrissian",
+          "baseId": "ADMINISTRATORLANDO",
+          "shardId": "unitshard_ADMINISTRATORLANDO",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Princess Leia",
+          "baseId": "PRINCESSLEIA",
+          "shardId": "unitshard_PRINCESSLEIA",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "K-2SO",
+          "baseId": "K2SO",
+          "shardId": "unitshard_K2SO",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Bistan",
+          "baseId": "BISTAN",
+          "shardId": "unitshard_BISTAN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Scarif Rebel Pathfinder",
+          "baseId": "SCARIFREBEL",
+          "shardId": "unitshard_SCARIFREBEL",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Luke Skywalker (Farmboy)",
+          "baseId": "LUKESKYWALKER",
+          "shardId": "unitshard_LUKESKYWALKER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Biggs Darklighter",
+          "baseId": "BIGGSDARKLIGHTER",
+          "shardId": "unitshard_BIGGSDARKLIGHTER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Stormtrooper Han",
+          "baseId": "STORMTROOPERHAN",
+          "shardId": "unitshard_STORMTROOPERHAN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Chopper",
+          "baseId": "CHOPPERS3",
+          "shardId": "unitshard_CHOPPERS3",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Garazeb \"Zeb\" Orrelios",
+          "baseId": "ZEBS3",
+          "shardId": "unitshard_ZEBS3",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Stormtrooper",
+          "baseId": "STORMTROOPER",
+          "shardId": "unitshard_STORMTROOPER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Ezra Bridger",
+          "baseId": "EZRABRIDGERS3",
+          "shardId": "unitshard_EZRABRIDGERS3",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Hera Syndulla",
+          "baseId": "HERASYNDULLAS3",
+          "shardId": "unitshard_HERASYNDULLAS3",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Kanan Jarrus",
+          "baseId": "KANANJARRUSS3",
+          "shardId": "unitshard_KANANJARRUSS3",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Snowtrooper",
+          "baseId": "SNOWTROOPER",
+          "shardId": "unitshard_SNOWTROOPER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Royal Guard",
+          "baseId": "ROYALGUARD",
+          "shardId": "unitshard_ROYALGUARD",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "TIE Fighter Pilot",
+          "baseId": "TIEFIGHTERPILOT",
+          "shardId": "unitshard_TIEFIGHTERPILOT",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Grand Moff Tarkin",
+          "baseId": "GRANDMOFFTARKIN",
+          "shardId": "unitshard_GRANDMOFFTARKIN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "General Veers",
+          "baseId": "VEERS",
+          "shardId": "unitshard_VEERS",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Director Krennic",
+          "baseId": "DIRECTORKRENNIC",
+          "shardId": "unitshard_DIRECTORKRENNIC",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Imperial Super Commando",
+          "baseId": "IMPERIALSUPERCOMMANDO",
+          "shardId": "unitshard_IMPERIALSUPERCOMMANDO",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Gar Saxon",
+          "baseId": "GARSAXON",
+          "shardId": "unitshard_GARSAXON",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Magmatrooper",
+          "baseId": "MAGMATROOPER",
+          "shardId": "unitshard_MAGMATROOPER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Umbaran Starfighter",
+          "baseId": "UMBARANSTARFIGHTER",
+          "shardId": "unitshard_UMBARANSTARFIGHTER",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Wedge Antilles's X-wing",
+          "baseId": "XWINGRED2",
+          "shardId": "unitshard_XWINGRED2",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Resistance X-wing",
+          "baseId": "XWINGRESISTANCE",
+          "shardId": "unitshard_XWINGRESISTANCE",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Bistan's U-wing",
+          "baseId": "UWINGSCARIF",
+          "shardId": "unitshard_UWINGSCARIF",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Clone Sergeant's ARC-170",
+          "baseId": "ARC170CLONESERGEANT",
+          "shardId": "unitshard_ARC170CLONESERGEANT",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Ahsoka Tano's Jedi Starfighter",
+          "baseId": "JEDISTARFIGHTERAHSOKATANO",
+          "shardId": "unitshard_JEDISTARFIGHTERAHSOKATANO",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Plo Koon's Jedi Starfighter",
+          "baseId": "BLADEOFDORIN",
+          "shardId": "unitshard_BLADEOFDORIN",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Poe Dameron's X-wing",
+          "baseId": "XWINGBLACKONE",
+          "shardId": "unitshard_XWINGBLACKONE",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Rex's ARC-170",
+          "baseId": "ARC170REX",
+          "shardId": "unitshard_ARC170REX",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Ghost",
+          "baseId": "GHOST",
+          "shardId": "unitshard_GHOST",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Phantom II",
+          "baseId": "PHANTOM2",
+          "shardId": "unitshard_PHANTOM2",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Cassian's U-wing",
+          "baseId": "UWINGROGUEONE",
+          "shardId": "unitshard_UWINGROGUEONE",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Jedi Consular's Starfighter",
+          "baseId": "JEDISTARFIGHTERCONSULAR",
+          "shardId": "unitshard_JEDISTARFIGHTERCONSULAR",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Geonosian Soldier's Starfighter",
+          "baseId": "GEONOSIANSTARFIGHTER2",
+          "shardId": "unitshard_GEONOSIANSTARFIGHTER2",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Geonosian Spy's Starfighter",
+          "baseId": "GEONOSIANSTARFIGHTER3",
+          "shardId": "unitshard_GEONOSIANSTARFIGHTER3",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Sun Fac's Geonosian Starfighter",
+          "baseId": "GEONOSIANSTARFIGHTER1",
+          "shardId": "unitshard_GEONOSIANSTARFIGHTER1",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Scimitar",
+          "baseId": "SITHINFILTRATOR",
+          "shardId": "unitshard_SITHINFILTRATOR",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "First Order TIE Fighter",
+          "baseId": "TIEFIGHTERFIRSTORDER",
+          "shardId": "unitshard_TIEFIGHTERFIRSTORDER",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Imperial TIE Fighter",
+          "baseId": "TIEFIGHTERIMPERIAL",
+          "shardId": "unitshard_TIEFIGHTERIMPERIAL",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Gauntlet Starfighter",
+          "baseId": "GAUNTLETSTARFIGHTER",
+          "shardId": "unitshard_GAUNTLETSTARFIGHTER",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Mk I Guild Event Tokens",
+              "cost": "400",
+              "quantity": 4
+            }
+          ]
+        }
+      ],
+      "gear": [],
+      "mods": [],
+      "other": []
+    }
+  },
+  {
+    "storeId": "Guild Store",
+    "rewards": {
+      "units": [
+        {
+          "name": "Young Han Solo",
+          "baseId": "YOUNGHAN",
+          "shardId": "unitshard_YOUNGHAN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Colonel Starck",
+          "baseId": "COLONELSTARCK",
+          "shardId": "unitshard_COLONELSTARCK",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "First Order SF TIE Pilot",
+          "baseId": "FIRSTORDERSPECIALFORCESPILOT",
+          "shardId": "unitshard_FIRSTORDERSPECIALFORCESPILOT",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "First Order SF TIE Fighter",
+          "baseId": "TIEFIGHTERFOSF",
+          "shardId": "unitshard_TIEFIGHTERFOSF",
+          "combatType": 2,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "name": "Jawa Engineer",
+          "baseId": "JAWAENGINEER",
+          "shardId": "unitshard_JAWAENGINEER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Gamorrean Guard",
+          "baseId": "GAMORREANGUARD",
+          "shardId": "unitshard_GAMORREANGUARD",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Dengar",
+          "baseId": "DENGAR",
+          "shardId": "unitshard_DENGAR",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Rey (Scavenger)",
+          "baseId": "REY",
+          "shardId": "unitshard_REY",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Snowtrooper",
+          "baseId": "SNOWTROOPER",
+          "shardId": "unitshard_SNOWTROOPER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Resistance Trooper",
+          "baseId": "RESISTANCETROOPER",
+          "shardId": "unitshard_RESISTANCETROOPER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Paploo",
+          "baseId": "PAPLOO",
+          "shardId": "unitshard_PAPLOO",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Ewok Elder",
+          "baseId": "EWOKELDER",
+          "shardId": "unitshard_EWOKELDER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Luke Skywalker (Farmboy)",
+          "baseId": "LUKESKYWALKER",
+          "shardId": "unitshard_LUKESKYWALKER",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Nightsister Acolyte",
+          "baseId": "NIGHTSISTERACOLYTE",
+          "shardId": "unitshard_NIGHTSISTERACOLYTE",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Darth Maul",
+          "baseId": "MAUL",
+          "shardId": "unitshard_MAUL",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Tusken Shaman",
+          "baseId": "TUSKENSHAMAN",
+          "shardId": "unitshard_TUSKENSHAMAN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Sun Fac",
+          "baseId": "SUNFAC",
+          "shardId": "unitshard_SUNFAC",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Zam Wesell",
+          "baseId": "ZAMWESELL",
+          "shardId": "unitshard_ZAMWESELL",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Logray",
+          "baseId": "LOGRAY",
+          "shardId": "unitshard_LOGRAY",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Obi-Wan Kenobi (Old Ben)",
+          "baseId": "OLDBENKENOBI",
+          "shardId": "unitshard_OLDBENKENOBI",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "CC-2224 \"Cody\"",
+          "baseId": "CC2224",
+          "shardId": "unitshard_CC2224",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "CT-21-0408 \"Echo\"",
+          "baseId": "CT210408",
+          "shardId": "unitshard_CT210408",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "CT-7567 \"Rex\"",
+          "baseId": "CT7567",
+          "shardId": "unitshard_CT7567",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Kylo Ren",
+          "baseId": "KYLOREN",
+          "shardId": "unitshard_KYLOREN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Aayla Secura",
+          "baseId": "AAYLASECURA",
+          "shardId": "unitshard_AAYLASECURA",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Barriss Offee",
+          "baseId": "BARRISSOFFEE",
+          "shardId": "unitshard_BARRISSOFFEE",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Finn",
+          "baseId": "FINN",
+          "shardId": "unitshard_FINN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Jyn Erso",
+          "baseId": "JYNERSO",
+          "shardId": "unitshard_JYNERSO",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Kit Fisto",
+          "baseId": "KITFISTO",
+          "shardId": "unitshard_KITFISTO",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Talia",
+          "baseId": "TALIA",
+          "shardId": "unitshard_TALIA",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "B2 Super Battle Droid",
+          "baseId": "B2SUPERBATTLEDROID",
+          "shardId": "unitshard_B2SUPERBATTLEDROID",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Ima-Gun Di",
+          "baseId": "IMAGUNDI",
+          "shardId": "unitshard_IMAGUNDI",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Sith Assassin",
+          "baseId": "SITHASSASSIN",
+          "shardId": "unitshard_SITHASSASSIN",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "IG-100 MagnaGuard",
+          "baseId": "MAGNAGUARD",
+          "shardId": "unitshard_MAGNAGUARD",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "name": "Clone Sergeant - Phase I",
+          "baseId": "CLONESERGEANTPHASEI",
+          "shardId": "unitshard_CLONESERGEANTPHASEI",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "currency": "Guild Store Tokens",
+              "cost": "450",
+              "quantity": 10
+            }
+          ]
+        }
+      ],
+      "gear": [],
+      "mods": [],
+      "other": []
+    }
+  },
+  {
+    "storeId": "Shard Store",
+    "rewards": {
+      "units": [
+        {
+          "name": "General Grievous",
+          "baseId": "GRIEVOUS",
+          "shardId": "unitshard_GRIEVOUS",
+          "combatType": 1,
+          "purchaseList": [
+            {
+              "cost": "2250",
+              "currency": "Shard Store Tokens",
+              "quantity": 5
+            },
+            {
+              "cost": "4500",
+              "currency": "Shard Store Tokens",
+              "quantity": 10
+            },
+            {
+              "cost": "13500",
+              "currency": "Shard Store Tokens",
+              "quantity": 30
+            }
+          ]
+        }
+      ],
+      "gear": [],
+      "mods": [],
+      "other": []
+    }
+  }
+]
