@@ -1,7 +1,7 @@
 [
     {
         "C01D": {
-            "name": "Dark Side Battles",
+            "game_mode": "Dark Side Battles",
             "4": "Normal",
             "5": "Hard",
             "energy": "Energy",
@@ -45,7 +45,7 @@
             }
         },
         "C01L": {
-            "name": "Light Side Battles",
+            "game_mode": "Light Side Battles",
             "4": "Normal",
             "5": "Hard",
             "energy": "Energy",
@@ -89,7 +89,7 @@
             }
         },
         "C01H": {
-            "name": "Cantina Battles",
+            "game_mode": "Cantina Battles",
             "4": "Normal",
             "5": "Hard",
             "energy": "Cantina Energy",
@@ -129,7 +129,7 @@
             }
         },
         "C01SP": {
-            "name": "Fleet Battles",
+            "game_mode": "Fleet Battles",
             "4": "Normal",
             "5": "Hard",
             "energy": "Ship Energy",
@@ -157,7 +157,7 @@
             }
         },
         "C01MB": {
-            "name": "Mod Battles",
+            "game_mode": "Mod Battles",
             "5": "Normal",
             "energy": "Mod Energy",
             "energy_cost":{
@@ -198,10 +198,11 @@
             }
         },
         "GUILD": {
-            "name": "Guild Events",
+            "game_mode": "Guild Events",
             "RAIDS": {
+                "event_type": "Raids",
                 "RANCOR": {
-                    "name": "The Pit",
+                    "event_name": "The Pit",
                     "HEROIC80": "Heroic",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
@@ -211,12 +212,12 @@
                     "DIFF06": "Tier VI"
                 },
                 "AAT": {
-                    "name": "Tank Takedown",
+                    "event_name": "Tank Takedown",
                     "HEROIC80": "Heroic",
                     "DIFF06": "Normal"
                 },
                 "SITH_RAID": {
-                    "name": "The Sith Triumvirate",
+                    "event_name": "The Sith Triumvirate",
                     "HEROIC85": "Heroic",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
@@ -226,14 +227,15 @@
                     "DIFF06": "Tier VI"
                 },
                 "RANCOR_CHALLENGE": {
-                    "name": "The Pit (Challenge)"
+                    "event_name": "The Pit (Challenge)"
                 }
             }
         },
         "EVENTS": {
             "CHALLENGES": {
+                "game_mode": "Challenges",
                 "ABILITYUPGRADEMATERIALS": {
-                    "name": "Ability Mats Challenge",
+                    "event_name": "Ability Mats Challenge",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III",
@@ -242,7 +244,7 @@
                     "DIFF06": "Tier VI"
                 },
                 "CREDIT": {
-                    "name": "Bounty Hunter Challenge",
+                    "event_name": "Bounty Hunter Challenge",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III",
@@ -251,7 +253,7 @@
                     "DIFF06": "Tier VI"
                 },
                 "XP": {
-                    "name": "Training Droids Challenge",
+                    "event_name": "Training Droids Challenge",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III",
@@ -260,7 +262,7 @@
                     "DIFF06": "Tier VI"
                 },
                 "EQUIPMENT_STRENGTH": {
-                    "name": "STR Gear Challenge",
+                    "event_name": "STR Gear Challenge",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III",
@@ -268,7 +270,7 @@
                     "DIFF05": "Tier V"
                 },
                 "EQUIPMENT_AGILITY": {
-                    "name": "AGI Gear Challenge",
+                    "event_name": "AGI Gear Challenge",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III",
@@ -276,7 +278,7 @@
                     "DIFF05": "Tier V"
                 },
                 "EQUIPMENT_INTELLIGENCE": {
-                    "name": "TAC Gear Challenge",
+                    "event_name": "TAC Gear Challenge",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III",
@@ -285,9 +287,9 @@
                 }
             },
             "PROGRESSION": {
-                "name": "Legendary Event",
+                "game_mode": "Legendary Event",
                 "GRANDMASTERS_TRAINING": {
-                    "name": "Grand Master's Training",
+                    "event_name": "Grand Master's Training",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III",
@@ -297,7 +299,7 @@
                     "DIFF07": "Tier VII"
                 },
                 "EMPERORS_END": {
-                    "name": "Emperor's Demise",
+                    "event_name": "Emperor's Demise",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III",
@@ -308,10 +310,10 @@
                 }
             },
             "JOURNEY": {
-                "name": "Journey Event",
+                "game_mode": "Journey Event",
                 "HEROJOURNEY_FARMERLUKE": {
-                    "name": "Luke Skywalker",
-                    "event_name": "Hero's Journey",
+                    "event_name": "Luke Skywalker",
+                    "event_type": "Hero's Journey",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -320,8 +322,8 @@
                     "TIER06": "Tier VI"
                 },
                 "HEROJOURNEY_SCAVENGERREY": {
-                    "name": "Rey",
-                    "event_name": "Hero's Journey",
+                    "event_name": "Rey",
+                    "event_type": "Hero's Journey",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -331,8 +333,8 @@
                     "TIER07": "Tier VII"
                 },
                 "HEROJOURNEY_JEDIKNIGHTREVAN": {
-                    "name": "Legend of the Old Republic",
-                    "event_name": "Ancient Journey",
+                    "event_name": "Legend of the Old Republic",
+                    "event_type": "Ancient Journey",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -341,8 +343,8 @@
                     "TIER06": "Tier VI"
                 },
                 "JOURNEY_DARTHREVAN": {
-                    "name": "Scourge of the Old Republic",
-                    "event_name": "Ancient Journey",
+                    "event_name": "Scourge of the Old Republic",
+                    "event_type": "Ancient Journey",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -352,8 +354,8 @@
                     "TIER07": "Tier VII"
                 },
                 "JOURNEY_JEDIKNIGHTLUKE": {
-                    "name": "Luke Skywalker",
-                    "event_name": "The Journey Continues",
+                    "event_name": "Luke Skywalker",
+                    "event_type": "The Journey Continues",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -364,8 +366,8 @@
                     "TIER08": "Tier VIII"
                 },
                 "JOURNEY_MANDALORIAN": {
-                    "name": "The Mandalorian (Beskar Armor)",
-                    "event_name": "Hero's Journey",
+                    "event_name": "The Mandalorian (Beskar Armor)",
+                    "event_type": "Hero's Journey",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -375,23 +377,23 @@
                 }
             },
             "LEGENDARY": {
-                "name": "Legendary Event",
+                "game_mode": "Legendary Event",
                 "GRANDMASTERS_TRAINING_MYTHIC": {
-                    "name": "Grand Master's Training",
-                    "event_name": "Mythic Event",
+                    "event_name": "Grand Master's Training",
+                    "event_type": "Mythic Event",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III"
                 },
                 "EMPERORS_DEMISE_MYTHIC": {
-                    "name": "Emperor's Demise",
-                    "event_name": "Mythic Event",
+                    "event_name": "Emperor's Demise",
+                    "event_type": "Mythic Event",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III"
                 },
                 "DARING_DROID": {
-                    "name": "Daring Droid",
+                    "event_name": "Daring Droid",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -401,14 +403,14 @@
                     "TIER07": "Tier VII"
                 },
                 "DARING_DROID_MYTHIC": {
-                    "name": "Daring Droid",
-                    "event_name": "Mythic Event",
+                    "event_name": "Daring Droid",
+                    "event_type": "Mythic Event",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III"
                 },
                 "ARTIST_OF_WAR": {
-                    "name": "Artist of War",
+                    "event_name": "Artist of War",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -418,14 +420,14 @@
                     "TIER07": "Tier VII"
                 },
                 "ARTIST_OF_WAR_MYTHIC": {
-                    "name": "Artist of War",
-                    "event_name": "Mythic Event",
+                    "event_name": "Artist of War",
+                    "event_type": "Mythic Event",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III"
                 },
                 "PIECES_AND_PLANS": {
-                    "name": "Pieces and Plans",
+                    "event_name": "Pieces and Plans",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -435,14 +437,14 @@
                     "TIER07": "Tier VII"
                 },
                 "PIECES_AND_PLANS_MYTHIC": {
-                    "name": "Pieces and Plans",
-                    "event_name": "Mythic Event",
+                    "event_name": "Pieces and Plans",
+                    "event_type": "Mythic Event",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III"
                 },
                 "IMPERIAL_CHIMAERA": {
-                    "name": "Imperial Chimaera",
+                    "event_name": "Imperial Chimaera",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -452,7 +454,7 @@
                     "TIER07": "Tier VII"
                 },
                 "ONE_FAMOUS_WOOKIEE": {
-                    "name": "One Famous Wookie",
+                    "event_name": "One Famous Wookie",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -462,7 +464,7 @@
                     "TIER07": "Tier VII"
                 },
                 "CONTACT_PROTOCOL": {
-                    "name": "Contact Protocol",
+                    "event_name": "Contact Protocol",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -472,7 +474,7 @@
                     "TIER07": "Tier VII"
                 },
                 "FLIGHT_OF_THE_FALCON": {
-                    "name": "Flight of the Falcon",
+                    "event_name": "Flight of the Falcon",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -482,7 +484,7 @@
                     "TIER07": "Tier VII"
                 },
                 "AGGRESSIVE_NEGOTIATIONS": {
-                    "name": "Aggressive Negotiations",
+                    "event_name": "Aggressive Negotiations",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -492,8 +494,8 @@
                     "TIER07": "Tier VII"
                 },
                 "THE_FORCE_UNLEASHED": {
-                    "name": "The Force Unleashed",
-                    "event_name": "Legacy Event",
+                    "event_name": "The Force Unleashed",
+                    "event_type": "Legacy Event",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -502,14 +504,14 @@
                 }
             },
             "EPIC": {
-                "name": "Epic Confrontation",
+                "game_mode": "Epic Confrontation",
                 "STAR_FORGE_SHOWDOWN": {
-                    "name": "Star Forge Showdown",
+                    "event_name": "Star Forge Showdown",
                     "TIER01": "Light Path",
                     "TIER02": "Dark Path"
                 },
                 "CLASH_ON_KAMINO": {
-                    "name": "Clash on Kamino",
+                    "event_name": "Clash on Kamino",
                     "TIER01": "The Battle Up There",
                     "TIER02": "General Conflict",
                     "TIER03": "Seeing Red",
@@ -517,9 +519,9 @@
                 }
             },
             "GALACTIC": {
-                "name": "Galactic Ascension",
+                "game_mode": "Galactic Ascension",
                 "CAMPAIGN_EVENT_REY_GALACTICLEGEND": {
-                    "name": "Heir to the Light Side",
+                    "event_name": "Heir to the Light Side",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -528,7 +530,7 @@
                     "TIER06": "Tier VI"
                 },
                 "CAMPAIGN_EVENT_KYLOREN_GALACTICLEGEND": {
-                    "name": "Heir to the Dark Side",
+                    "event_name": "Heir to the Dark Side",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -537,7 +539,7 @@
                     "TIER06": "Tier VI"
                 },
                 "CAMPAIGN_EVENT_LUKE_GALACTICLEGEND": {
-                    "name": "The Journey's End",
+                    "event_name": "The Journey's End",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -546,7 +548,7 @@
                     "TIER06": "Tier VI"
                 },
                 "CAMPAIGN_EVENT_SITHETERNALEMPEROR_GALACTICLEGEND": {
-                    "name": "The Final Order",
+                    "event_name": "The Final Order",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -555,7 +557,7 @@
                     "TIER06": "Tier VI"
                 },
                 "CAMPAIGN_EVENT_KENOBI_GALACTICLEGEND": {
-                    "name": "What Must Be Done",
+                    "event_name": "What Must Be Done",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -564,8 +566,8 @@
                     "TIER06": "Tier VI"
                 },
                 "CAMPAIGN_EVENT_VADER_GALACTICLEGEND": {
-                    "name": "Lord Vader",
-                    "event_name": "Hero's Fall",
+                    "event_name": "Lord Vader",
+                    "event_type": "Hero's Fall",
                     "TIER01": "TIER I",
                     "TIER02": "TIER II",
                     "TIER03": "TIER III",
@@ -576,8 +578,8 @@
             },
             "SCHEDULED": {
                 "GALACTIC_BOUNTY_01": {
-                    "name": "Galactic Bounties I",
-                    "event_name": "Special Event",
+                    "event_name": "Galactic Bounties I",
+                    "event_type": "Special Event",
                     "TIER01": "EASY BOUNTY (G8+)",
                     "TIER02": "MODERATE BOUNTY (G9+)",
                     "TIER03": "MODERATE BOUNTY (G9+)",
@@ -585,8 +587,8 @@
                     "TIER05": "DEADLY BOUNTY (G11+)"
                 },
                 "GALACTIC_BOUNTY_02": {
-                    "name": "Galactic Bounties II",
-                    "event_name": "Special Event",
+                    "event_name": "Galactic Bounties II",
+                    "event_type": "Special Event",
                     "TIER01": "EASY BOUNTY (G8+)",
                     "TIER02": "MODERATE BOUNTY (G9+)",
                     "TIER03": "MODERATE BOUNTY (G9+)",
@@ -594,89 +596,89 @@
                     "TIER05": "DEADLY BOUNTY (G11+)"
                 },
                 "PLANETARYBATTLES_01": {
-                    "name": "Bespin",
-                    "event_name": "Omega Battles",
+                    "event_name": "Bespin",
+                    "event_type": "Omega Battles",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III"
                 },
                 "PLANETARYBATTLES_02": {
-                    "name": "Coruscant",
-                    "event_name": "Omega Battles",
+                    "event_name": "Coruscant",
+                    "event_type": "Omega Battles",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III"
                 },
                 "PLANETARYBATTLES_03": {
-                    "name": "Dathomir",
-                    "event_name": "Omega Battles",
+                    "event_name": "Dathomir",
+                    "event_type": "Omega Battles",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III"
                 },
                 "PLANETARYBATTLES_04": {
-                    "name": "Endor",
-                    "event_name": "Omega Battles",
+                    "event_name": "Endor",
+                    "event_type": "Omega Battles",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III"
                 },
                 "PLANETARYBATTLES_05": {
-                    "name": "Jakku",
-                    "event_name": "Omega Battles",
+                    "event_name": "Jakku",
+                    "event_type": "Omega Battles",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III"
                 },
                 "PLANETARYBATTLES_06": {
-                    "name": "Imperial Fleet",
-                    "event_name": "Omega Battles",
+                    "event_name": "Imperial Fleet",
+                    "event_type": "Omega Battles",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III"
                 },
                 "PLANETARYBATTLES_07": {
-                    "name": "Hoth",
-                    "event_name": "Omega Battles",
+                    "event_name": "Hoth",
+                    "event_type": "Omega Battles",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III"
                 },
                 "NODE_EVENT_CREDIT_HEIST_GETAWAY_V2": {
-                    "name": "Credit Heist",
-                    "event_name": "Resource Event",
+                    "event_name": "Credit Heist",
+                    "event_type": "Resource Event",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III",
                     "DIFF04": "Tier IV"
                 },
                 "NODE_EVENT_SMUGGLERS_RUN_CHARACTER": {
-                    "name": "Smuggler's Run",
-                    "event_name": "Resource Event",
+                    "event_name": "Smuggler's Run",
+                    "event_type": "Resource Event",
                     "TIER_01": "EASY (G7+)",
                     "TIER_02": "MODERATE (G8+)",
                     "TIER_03": "TOUGH (G10+)",
                     "TIER_04": "DEADLY (G12)"
                 },
                 "NODE_EVENT_SMUGGLERS_RUN_SHIP": {
-                    "name": "Contraband Cargo",
-                    "event_name": "Resource Event",
+                    "event_name": "Contraband Cargo",
+                    "event_type": "Resource Event",
                     "TIER_01": "EASY (G7+)",
                     "TIER_02": "MODERATE (G8+)",
                     "TIER_03": "TOUGH (G10+)",
                     "TIER_04": "DEADLY (G12)"
                 },
                 "NODE_EVENT_TRAINING_DROID_SMUGGLING": {
-                    "name": "Training Droid Smuggling",
-                    "event_name": "Resource Event",
+                    "event_name": "Training Droid Smuggling",
+                    "event_type": "Resource Event",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "Tier III",
                     "DIFF04": "Tier IV"
                 },
                 "NODE_EVENT_ASSAULT_EWOK": {
-                    "name": "Forest Moon",
-                    "event_name": "Assault Battle",
+                    "event_name": "Forest Moon",
+                    "event_type": "Assault Battle",
                     "DIFF01": "TIER I",
                     "DIFF02": "TIER II",
                     "DIFF03": "BONUS TIER",
@@ -686,8 +688,8 @@
                     "DIFF07": "CHALLENGE TIER III"
                 },
                 "NODE_EVENT_ASSAULT_EMPIRE": {
-                    "name": "Militray Might",
-                    "event_name": "Assault Battle",
+                    "event_name": "Militray Might",
+                    "event_type": "Assault Battle",
                     "DIFF01": "TIER I",
                     "DIFF02": "TIER II",
                     "DIFF03": "BONUS TIER",
@@ -697,8 +699,8 @@
                     "DIFF07": "CHALLENGE TIER III"
                 },
                 "NODE_EVENT_ASSAULT_SEPARATIST": {
-                    "name": "Ground War",
-                    "event_name": "Assault Battle",
+                    "event_name": "Ground War",
+                    "event_type": "Assault Battle",
                     "DIFF01": "Tier I",
                     "DIFF02": "Tier II",
                     "DIFF03": "BONUS TIER",
@@ -708,8 +710,8 @@
                     "DIFF07": "CHALLENGE TIER III"
                 },
                 "NODE_EVENT_ASSAULT_JEDI": {
-                    "name": "Places of Power",
-                    "event_name": "Assault Battle",
+                    "event_name": "Places of Power",
+                    "event_type": "Assault Battle",
                     "DIFF01": "TIER I",
                     "DIFF02": "TIER II",
                     "DIFF03": "BONUS TIER",
@@ -719,8 +721,8 @@
                     "DIFF07": "CHALLENGE TIER III"
                 },
                 "NODE_EVENT_ASSAULT_DARKSIDE": {
-                    "name": "Secrets and Shadows",
-                    "event_name": "Assault Battle",
+                    "event_name": "Secrets and Shadows",
+                    "event_type": "Assault Battle",
                     "DIFF01": "TIER I (HARD)",
                     "DIFF02": "TIER II (VERY HARD)",
                     "DIFF03": "BONUS TIER",
@@ -730,8 +732,8 @@
                     "DIFF07": "CHALLENGE TIER III"
                 },
                 "NODE_EVENT_ASSAULT_REBEL": {
-                    "name": "Rebel Roundup",
-                    "event_name": "Assault Battle",
+                    "event_name": "Rebel Roundup",
+                    "event_type": "Assault Battle",
                     "TIER01": "TIER I (HARD)",
                     "TIER02": "TIER II (VERY HARD)",
                     "TIER03": "BONUS TIER",
@@ -741,134 +743,134 @@
                     "DIFF07": "CHALLENGE TIER III"
                 },
                 "GHOSTS_OF_DATHOMIR_L20": {
-                    "name": "Ghosts of Dathomir",
-                    "event_name": "Special Event",
+                    "event_name": "Ghosts of Dathomir",
+                    "event_type": "Special Event",
                     "TIER01": "Tier I"
                 },
                 "GHOSTS_OF_DATHOMIR_L30": {
-                    "name": "Ghosts of Dathomir",
-                    "event_name": "Special Event",
+                    "event_name": "Ghosts of Dathomir",
+                    "event_type": "Special Event",
                     "TIER01": "Tier I"
                 },
                 "GHOSTS_OF_DATHOMIR_L40": {
-                    "name": "Ghosts of Dathomir",
-                    "event_name": "Special Event",
+                    "event_name": "Ghosts of Dathomir",
+                    "event_type": "Special Event",
                     "TIER01": "Tier I"
                 },
                 "GHOSTS_OF_DATHOMIR_L50": {
-                    "name": "Ghosts of Dathomir",
-                    "event_name": "Special Event",
+                    "event_name": "Ghosts of Dathomir",
+                    "event_type": "Special Event",
                     "TIER01": "Tier I"
                 },
                 "GHOSTS_OF_DATHOMIR_L60": {
-                    "name": "Ghosts of Dathomir",
-                    "event_name": "Special Event",
+                    "event_name": "Ghosts of Dathomir",
+                    "event_type": "Special Event",
                     "TIER01": "Tier I"
                 },
                 "GHOSTS_OF_DATHOMIR_L70": {
-                    "name": "Ghosts of Dathomir",
-                    "event_name": "Special Event",
+                    "event_name": "Ghosts of Dathomir",
+                    "event_type": "Special Event",
                     "TIER01": "Tier I"
                 },
                 "GHOSTS_OF_DATHOMIR_L80": {
-                    "name": "Ghosts of Dathomir",
-                    "event_name": "Special Event",
+                    "event_name": "Ghosts of Dathomir",
+                    "event_type": "Special Event",
                     "TIER01": "Tier I",
                     "TIER02": "Bonus Tier"
                 }
             },
             "HEROIC": {
-                "name": "Heroic Battle",
+                "game_mode": "Heroic Battle",
                 "NODE_EVENT_HEROIC_ATST": {
-                    "name": "Endor Escalation",
+                    "event_name": "Endor Escalation",
                     "TIER01": "Tier I",
                     "TIER02": "BONUS TIER"
                 },
                 "DEFENSE_OF_DATHOMIR": {
-                    "name": "Defense of Dathomir",
+                    "event_name": "Defense of Dathomir",
                     "TIER01": "Tier I",
                     "TIER02": "BONUS TIER"
                 }
             },
             "SHIP": {
                 "CAPSHIP_7STAR_ACKBAR": {
-                    "name": "Home One",
-                    "event_name": "Fleet Mastery Event",
+                    "event_name": "Home One",
+                    "event_type": "Fleet Mastery Event",
                     "TIER01": "Tier I"
                 },
                 "CAPSHIP_7STAR_TARKIN": {
-                    "name": "Executrix",
-                    "event_name": "Fleet Mastery Event",
+                    "event_name": "Executrix",
+                    "event_type": "Fleet Mastery Event",
                     "TIER01": "Tier I"
                 },
                 "CAPSHIP_7STAR_MACE": {
-                    "name": "Endurance",
-                    "event_name": "Fleet Mastery Event",
+                    "event_name": "Endurance",
+                    "event_type": "Fleet Mastery Event",
                     "TIER01": "Tier I"
                 },
                 "TACTICS_SHIP_01_GEONOSIANS": {
-                    "name": "Geonosian Fleet",
-                    "event_name": "Advanced Tactics",
+                    "event_name": "Geonosian Fleet",
+                    "event_type": "Advanced Tactics",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III"
                 }
             },
             "MODS": {
-                "name": "Mod Challenges",
+                "game_mode": "Mod Challenges",
                 "SET_1": {
-                    "name": "Health Mods",
+                    "event_name": "Health Mods",
                     "DIFF01": "Health: Tier I",
                     "DIFF02": "Health: Tier II",
                     "DIFF03": "Health: Tier III"
                 },
                 "SET_3": {
-                    "name": "Defense Mods",
+                    "event_name": "Defense Mods",
                     "DIFF01": "Defense: Tier I",
                     "DIFF02": "Defense: Tier II",
                     "DIFF03": "Defense: Tier III"
                 },
                 "SET_6": {
-                    "name": "Critical Damage Mods",
+                    "event_name": "Critical Damage Mods",
                     "DIFF01": "Crit Damage: Tier I",
                     "DIFF02": "Crit Damage: Tier II",
                     "DIFF03": "Crit Damage: Tier III"
                 },
                 "SET_5": {
-                    "name": "Critical Chance Mods",
+                    "event_name": "Critical Chance Mods",
                     "DIFF01": "Crit Chance: Tier I",
                     "DIFF02": "Crit Chance: Tier II",
                     "DIFF03": "Crit Chance: Tier III"
                 },
                 "SET_8": {
-                    "name": "Tenacity Mods",
+                    "event_name": "Tenacity Mods",
                     "DIFF01": "Tenacity: Tier I",
                     "DIFF02": "Tenacity: Tier II",
                     "DIFF03": "Tenacity: Tier III"
                 },
                 "SET_2": {
-                    "name": "Offense Mods",
+                    "event_name": "Offense Mods",
                     "DIFF01": "Offense: Tier I",
                     "DIFF02": "Offense: Tier II",
                     "DIFF03": "Offense: Tier III"
                 },
                 "SET_7": {
-                    "name": "Potency Mods",
+                    "event_name": "Potency Mods",
                     "DIFF01": "Potency: Tier I",
                     "DIFF02": "Potency: Tier II",
                     "DIFF03": "Potency: Tier III"
                 },
                 "SET_4": {
-                    "name": "Speed Mods",
+                    "event_name": "Speed Mods",
                     "DIFF01": "Speed: Tier I",
                     "DIFF02": "Speed: Tier II",
                     "DIFF03": "Speed: Tier III"
                 }
             },
             "BASICTRAINING": {
-                "name": "Basic Training Event",
+                "game_mode": "Basic Training Event",
                 "BASIC_TRAINING_REBEL": {
-                    "name": "Rebels",
+                    "event_name": "Rebels",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
@@ -876,55 +878,55 @@
                     "TIER05": "Tier V"
                 },
                 "BASIC_TRAINING_PROGRESSION_REBEL": {
-                    "name": "Rebels",
+                    "event_name": "Rebels",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III"
                 },
                 "BASIC_TRAINING_EMPIRE": {
-                    "name": "Empire",
+                    "event_name": "Empire",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
                     "TIER04": "Tier IV"
                 },
                 "BASIC_TRAINING_PROGRESSION_EMPIRE": {
-                    "name": "Empire",
+                    "event_name": "Empire",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III"
                 },
                 "BASIC_TRAINING_FIRSTORDER": {
-                    "name": "First Order",
+                    "event_name": "First Order",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
                     "TIER04": "Tier IV"
                 },
                 "BASIC_TRAINING_PROGRESSION_FIRSTORDER": {
-                    "name": "First Order",
+                    "event_name": "First Order",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III"
                 },
                 "BASIC_TRAINING_RESISTANCE": {
-                    "name": "Resistance",
+                    "event_name": "Resistance",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III",
                     "TIER04": "Tier IV"
                 },
                 "BASIC_TRAINING_PROGRESSION_RESISTANCE": {
-                    "name": "Resistance",
+                    "event_name": "Resistance",
                     "TIER01": "Tier I",
                     "TIER02": "Tier II",
                     "TIER03": "Tier III"
                 }
             },
             "FLEETMASTERY": {
-                "name": "Advanced Fleet Mastery",
+                "game_mode": "Advanced Fleet Mastery",
                 "RADDUS_FLEET_MASTERY": {
-                    "name": "Admiral's Maneuver",
+                    "event_name": "Admiral's Maneuver",
                     "TIER01": "TIER I",
                     "TIER02": "TIER II",
                     "TIER03": "TIER III",
@@ -932,7 +934,7 @@
                     "BONUS": "BONUS TIER"
                 },
                 "FINALIZER_FLEET_MASTERY": {
-                    "name": "General's Command",
+                    "event_name": "General's Command",
                     "TIER01": "TIER I",
                     "TIER02": "TIER II",
                     "TIER03": "TIER III",
@@ -940,14 +942,14 @@
                     "BONUS": "BONUS TIER"
                 },
                 "EXECUTOR_FLEET_MASTERY": {
-                    "name": "Discarded Doctrine",
+                    "event_name": "Discarded Doctrine",
                     "TIER01": "TIER I",
                     "TIER02": "TIER II",
                     "TIER03": "TIER III",
                     "TIER04": "TIER IV"
                 },
                 "EXECUTOR_FLEET_MASTERY_BONUS": {
-                    "name": "Discarded Doctrine",
+                    "event_name": "Discarded Doctrine",
                     "BONUS": "BONUS TIER"
                 }
             }
